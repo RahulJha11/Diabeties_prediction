@@ -6,7 +6,7 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 Link:- https://diabetes-prediction-app1.herokuapp.com/
 
-<img src="image/IMG_20200701_121303.jpg" width ="450" hight="220" >
+<img src="image/IMG_1.jpg" width ="450" hight="220" >
 
 # Overview
 
